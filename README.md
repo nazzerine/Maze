@@ -5,6 +5,8 @@ In order to properly implement a maze simulation, the following source code was 
 
 Labyrinth - the class that represents a 2D rectangular maze
 
+LabyrinthSearchException - Exception class used by the Simulation program for signaling problems with exploration of the Labyrinth. 
+
 Simulation- the actual program that simulates an exploration of a maze
 
 PossibleLocations - the interface that provides requirements for the stack and queue implementation
